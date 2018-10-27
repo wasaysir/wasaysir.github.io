@@ -12,13 +12,13 @@ In order for our hero and his sidekicks to prevail on their perilous quest is to
 ## TO-DO
 
 - [x] Background
-- [ ] Intro paragraph
-- [ ] Business Paragraph
-- [ ] Fix url locations
-- [ ] Contact url
-- [ ] Personal help paragraph
-- [ ] Create letter sending
-- [ ] Fix images
+- [x] Intro paragraph
+- [x] Business Paragraph
+- [x] Fix url locations
+- [x] Contact url
+- [x] Personal help paragraph
+- [x] Create letter sending
+- [x] Fix images
 
 ## Credits:
 
