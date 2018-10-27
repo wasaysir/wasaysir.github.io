@@ -9,6 +9,16 @@ In order for our hero and his sidekicks to prevail on their perilous quest is to
 + GIMP
 + Github, obviously
 
+## TO-DO
+
+- [x] Background
+- [ ] Intro paragraph
+- [ ] Business Paragraph
+- [ ] Fix url locations
+- [ ] Contact url
+- [ ] Personal help paragraph
+- [ ] Create letter sending
+- [ ] Fix images
 
 ## Credits:
 
